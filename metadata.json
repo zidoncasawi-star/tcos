@@ -1,0 +1,8 @@
+{
+  "name": "Programme TV",
+  "description": "Guide TV complet de la TNT et des chaînes françaises : programmes ce soir, en direct, films, séries, sport et solutions compatibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
